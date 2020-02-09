@@ -1,5 +1,5 @@
 # RTD
-Real-Time recognition using openCV and deep neural network (DNN) with OpenCV
+Real-Time recognition using openCV and deep neural network (DNN)
 
 ```diff
 - Python version: 3.8.0

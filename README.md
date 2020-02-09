@@ -6,5 +6,5 @@ Real-Time recognition using openCV and deep neural network (DNN) with OpenCV
 - Python Libraries: (NumPy): pip install numpy, (openCV): pip install opencv-python
 ```
 
-![#f03c15](img/img2.png)'#f03c15'
-![#f03c15](img/img1.png)'#f03c15'
+![#f03c15](img/img2.png)
+![#f03c15](img/img1.png)
